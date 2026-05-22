@@ -2,6 +2,7 @@
 
 ## Overview
 DevPulse Explorer is a production-style frontend assessment project that aggregates npm package metadata and weekly download analytics into a clean reviewer-friendly interface.
+Check it Live deployed: https://newspulse-ecru.vercel.app/
 
 ## Features
 - Debounced package search
